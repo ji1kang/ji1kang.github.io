@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [jiwonkang@hanyang.ac.kr](mailto:jiwonkang@hanyang.ac.kr)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> **Data Science Lab**, /#601, ERICA Center, Hanyang University
 >
-> London
+> Ansan, Gyeonggi
 >
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> Rep. of Korea
