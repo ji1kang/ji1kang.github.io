@@ -27,7 +27,7 @@ My research focus is on understanding how people share news, content or interest
 
 ---
 
-## Publications
+## Publication
 
 **[2019]**
 
@@ -41,3 +41,12 @@ My research focus is on understanding how people share news, content or interest
 **[2018]**
 
 - **"Understanding Influential Comments in Online Conversations,"** **Jinwon Kang**, Daejin Choi, Eunil Park, and Jinyoung Han*, ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), Jersey City, USA, November 2018. (4pg. extended abstract). [\[pdf\]](https://dl.acm.org/ft_gateway.cfm?id=3274054&ftid=2013754&dwn=1&CFID=138429312&CFTOKEN=ba322ba82af714e2-E75B9845-95A9-C5B9-28925087EAC4ACBB) [\[poster\]](resources/cscw18eaPoster.pdf)
+
+——-
+
+## Project
+
+- [2018.11-2021.10] Predicting Information Diffusion Process with Deep Learning (NRF)
+- [2019.6-2019.11] Learning and Predicting Information Diffusion (ETRI)
+- [2017.9-2020.8] Design Science: A convergence research on design and Big Data (NRF)
+- [2018.5-2018.11] Big Data Research for Artificial Intelligence Applications (ETRI)
