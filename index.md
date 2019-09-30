@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="jiwon_profile.jpg">
+<img class="profile-picture" src="https://avatars2.githubusercontent.com/u/25212792?s=460&v=4">
 
 I am a Master's candidate in Dept. of Interaction Science and a member of [Data Science Lab](ds.hanyang.ac.kr) at Sungkyunkwan University, Rep. of Korea.
 
