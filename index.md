@@ -10,7 +10,8 @@ My research focus is on understanding how people share news, content or interest
 
 - Research Interests: **`Computational Social Science`** / **`Data Journalism`** / **`Application of Artificial Intelligence`**
 - Contact 📩: [jiwonkang@skku.edu](mailto:jiwonkang@skku.edu)
-- Last Uploaded 🎉: 2019-09-30 -- I transferred to at Dept. of Interaction Science at Sungkyunkwan University, Rep. of Korea.
+- Last Uploaded 🎉: 2019-09-30 ~ I transferred to Dept. of Interaction Science at Sungkyunkwan University, Rep. of Korea.
+
 ---
 
 ## Education
