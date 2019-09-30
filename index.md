@@ -10,7 +10,7 @@ My research focus is on understanding how people share news, content or interest
 
 - Research Interests: **`Computational Social Science`** / **`Data Journalism`** / **`Application of Artificial Intelligence`**
 - Contact 📩: [jiwonkang@skku.edu](mailto:jiwonkang@skku.edu)
-- Last Uploaded 🎉: 2019-09-30 ~ I transferred to Dept. of Interaction Science at Sungkyunkwan University, Rep. of Korea.
+- Last Uploaded 🎉: 2019-09-30 ~ I transferred to Dept. of Interaction Science at Sungkyunkwan University.
 
 ---
 
@@ -18,13 +18,13 @@ My research focus is on understanding how people share news, content or interest
 
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019 Autumn - 2019 Present**
 
-  - Master's in Dept. of Interaction Science
+  - Master's candidate in Dept. of Interaction Science
 
   - *Advisors:* Dr. Jinyoung Han
 
 - **Hanyang University, Seoul, Rep. of Korea: 2018 Spring - 2019 Spring**
 
-  - Master's in College of HCI
+  - Master's candidate in College of HCI
 
   - *Advisors:* Dr. Jinyoung Han
 
@@ -46,8 +46,8 @@ My research focus is on understanding how people share news, content or interest
 
 **[2018]**
 
-- **"Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews,"** Eunil Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han*, Current Issues in Tourism, 1-7.
 - **"Understanding Influential Comments in Online Conversations,"** **Jiwon Kang**, Daejin Choi, Eunil Park, and Jinyoung Han*, ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), Jersey City, USA, November 2018. (4pg. extended abstract). [\[pdf\]](resources/cscw18ea.pdf) [\[poster\]](resources/cscw18eaPoster.pdf)
+- **"Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews,"** Eunil Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han*, Current Issues in Tourism, 1-7.
 
 ---
 
