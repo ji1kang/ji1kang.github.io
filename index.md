@@ -17,26 +17,15 @@ My research focus is on understanding how people share news, content or interest
 ## Education
 
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2020 Spring - Present**
-
   - PhD student in Dept. of Applied Artificial Intelligence
-
   - *Advisors:* Dr. Jinyoung Han
-
-
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019 Autumn - 2020 Spring**
-
   - Master's in Dept. of Interaction Science
-
   - *Advisors:* Dr. Jinyoung Han
-
 - **Hanyang University, Seoul, Rep. of Korea: 2018 Spring - 2019 Spring**
-
   - Master's candidate in Dept. of HCI
-
   - *Advisors:* Dr. Jinyoung Han
-
 - **Hongik University, Seoul, Rep. of Korea: 2012 Spring - 2017 Autumn**
-
   - Bachelor's in Law and Korean Language & Literature
 
 ---
