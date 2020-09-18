@@ -6,25 +6,22 @@ layout: default
 
 I am a PhD student in Department of Applied Artificial Intelligence and a member of [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
 
-My research focus is on understanding how people share news, content or interests on online environment with large-scale data. I am currently interested in interactions among online communities, especially in the K-pop fan communities.
+My research focus is on understanding how people share news, content or interests on online environment with large-scale data. I am currently interested in peer-support in mental-health-realted interactions.
 
 - Research Interests: **`Computational Social Science`** / **`Data Journalism`** / **`Application of Artificial Intelligence`**
 - Contact 📩: [jiwonkang@skku.edu](mailto:jiwonkang@skku.edu)
-- Last Updated: 2020-04-26
+- Last Updated: 2020-09-18
 
 ---
 
 ## Education
 
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2020 Spring - Present**
-  - PhD student in Dept. of Applied Artificial Intelligence
-  - *Advisors:* Dr. Jinyoung Han
+  - PhD student in Dept. of Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019 Autumn - 2020 Spring**
-  - Master's in Dept. of Interaction Science
-  - *Advisors:* Dr. Jinyoung Han
+  - Master's in Dept. of Interaction Science (*Advisors:* Dr. Jinyoung Han)
 - **Hanyang University, Seoul, Rep. of Korea: 2018 Spring - 2019 Spring**
-  - Master's candidate in Dept. of HCI
-  - *Advisors:* Dr. Jinyoung Han
+  - Master's candidate in Dept. of HCI  (*Advisors:* Dr. Jinyoung Han)
 - **Hongik University, Seoul, Rep. of Korea: 2012 Spring - 2017 Autumn**
   - Bachelor's in Law and Korean Language & Literature
 
@@ -32,7 +29,9 @@ My research focus is on understanding how people share news, content or interest
 
 ## Publication
 **[2020]**
-- **"Why do Instagram Users Tag Friends in Comments?,"** **Jiwon Kang**, Jeewoo Yoon, and Jinyoung Han*, In Companion Proceedings of the Web Conference 2020 (WWW), Taipei, Taiwan, April 2020. (3 pg. extended abstract) [\[pdf\]](resources/www20companion-46.pdf)
+
+- **"Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"** Daeun Lee, Soyoung Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han*, In EMNLP Findings, Nov. 2020.
+- **"Why do Instagram Users Tag Friends in Comments?,"** **Jiwon Kang**, Jeewoo Yoon, and Jinyoung Han*, In Companion Proceedings of the Web Conference 2020 (WWW), Taipei, Taiwan, Apr. 2020. (3 pg. extended abstract) [\[pdf\]](resources/www20companion-46.pdf)
 
 **[2019]**
 
@@ -50,8 +49,8 @@ My research focus is on understanding how people share news, content or interest
 ---
 
 ## Project
-
 - [2018.11-2021.10] Predicting Information Diffusion Process with Deep Learning (NRF)
-- [2019.6-2019.11] Learning and Predicting Information Diffusion (ETRI)
+- [2020.7-2020.11] Developing a Model for Detecting Fake News on COVID-19 (ETRI)
 - [2017.9-2020.8] Design Science: A convergence research on design and Big Data (NRF)
+- [2019.6-2019.11] Learning and Predicting Information Diffusion (ETRI)
 - [2018.5-2018.11] Big Data Research for Artificial Intelligence Applications (ETRI)
