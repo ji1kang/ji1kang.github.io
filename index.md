@@ -35,7 +35,7 @@ My research focus is on understanding how people share news, content or interest
 
 **[2019]**
 
-- **"Who Drives Successful Online Conversations? Unveiling the Role of First User Response,"** Ye-eun Won & **Jiwon Kang (equal contributions)**, Daejin Choi, Eunil Park, and Jinyoung Han*, Kybernetes, 49(3), 876-884. [url](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/html)
+- **"Who Drives Successful Online Conversations? Unveiling the Role of First User Response,"** Ye-eun Won & **Jiwon Kang (equal contributions)**, Daejin Choi, Eunil Park, and Jinyoung Han*, Kybernetes, 49(3), 876-884. [\[url\]](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/html)
 - **"Alliance for My Idol: Analyzing the K-pop Fandom Collaboration Network,"** **Jiwon Kang**, Minsung Lee, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*, ACM CHI Conference on Human Factors in Computing Systems (CHI), Glasgow, Scotland UK, May 2019. (6pg. extended abstract) [\[pdf\]](resources/chi19lbw.pdf) [\[poster\]](resources/chi19lbwPoster.pdf)
 - **"A Deep Neural Network Model for Identifying Political Party based on Face Images,"** Jeewoo Yoon, **Jiwon Kang**, Seunghoon Jeong, Minsam Ko, Eunil Park, and Jinyoung Han*, HCI Korea 2019, Jeju, Feb. 2019. (Korean)
 - **"An Analysis of Socio-Economic Behavior in Me-Media,"** Migyeong Yang, **Jiwon Kang**, Eunil Park, Minsam Ko, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Korean)
