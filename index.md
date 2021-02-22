@@ -65,7 +65,7 @@ My research interests include Computational Social Science, Machine Learning wit
 **[2019]**
 - [11/09-11/13] ACM CSCW (Austin, Texas, USA)
 - [10/27-11/02] ICCV (Seoul, Korea)
-- [06/13-06/21] Global Young Generation Science & Technology Leadership Training (Calgary & Banff, Canada)
+- [06/13-06/21] KOFST Global Young Generation Science & Technology Leadership Training (Calgary & Banff, Canada)
 - [05/04-05/09] ACM CHI (Glasgow, Scotland, UK)
 
 **[2018]**
