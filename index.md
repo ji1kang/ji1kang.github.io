@@ -6,11 +6,10 @@ layout: default
 
 I am a PhD student in Department of Applied Artificial Intelligence and a member of [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
 
-My research focus is on understanding how people share news, content or interests on online environment with large-scale data. I am currently interested in peer-support in mental-health-realted interactions.
+My research interests include Computational Social Science, Machine Learning with Graphs, Natural Language Processing, AI Application, and Data Science. More specifically, I am interested in developing and applying machine learning algorithms to solve real-world problems.
 
-- Research Interests: **`Computational Social Science`** / **`Data Journalism`** / **`Application of Artificial Intelligence`**
-- Contact 📩: [jiwonkang@skku.edu](mailto:jiwonkang@skku.edu)
-- Last Updated: 2020-09-18
+- Contact 📩: [jiwonkang@g.skku.edu](mailto:jiwonkang@g.skku.edu)
+- Last Updated: 2021-02-22
 
 ---
 
@@ -30,16 +29,16 @@ My research focus is on understanding how people share news, content or interest
 ## Publication
 **[2020]**
 
-- **"Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"** Daeun Lee, Soyoung Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han*, In EMNLP Findings, Nov. 2020.
+- **"Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"** Daeun Lee, Soyoung Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han*, In EMNLP Findings, Nov. 2020.[\[pdf\]](resources/2020.findings-emnlp.200.pdf)
 - **"Why do Instagram Users Tag Friends in Comments?,"** **Jiwon Kang**, Jeewoo Yoon, and Jinyoung Han*, In Companion Proceedings of the Web Conference 2020 (WWW), Taipei, Taiwan, Apr. 2020. (3 pg. extended abstract) [\[pdf\]](resources/www20companion-46.pdf)
 
 **[2019]**
 
 - **"Who Drives Successful Online Conversations? Unveiling the Role of First User Response,"** Ye-eun Won & **Jiwon Kang (equal contributions)**, Daejin Choi, Eunil Park, and Jinyoung Han*, Kybernetes, 49(3), 876-884. [\[url\]](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/html)
 - **"Alliance for My Idol: Analyzing the K-pop Fandom Collaboration Network,"** **Jiwon Kang**, Minsung Lee, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*, ACM CHI Conference on Human Factors in Computing Systems (CHI), Glasgow, Scotland UK, May 2019. (6pg. extended abstract) [\[pdf\]](resources/chi19lbw.pdf) [\[poster\]](resources/chi19lbwPoster.pdf)
-- **"A Deep Neural Network Model for Identifying Political Party based on Face Images,"** Jeewoo Yoon, **Jiwon Kang**, Seunghoon Jeong, Minsam Ko, Eunil Park, and Jinyoung Han*, HCI Korea 2019, Jeju, Feb. 2019. (Korean)
-- **"An Analysis of Socio-Economic Behavior in Me-Media,"** Migyeong Yang, **Jiwon Kang**, Eunil Park, Minsam Ko, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Korean)
-- **"Effects of Initial Comments on Successful Online Conversation,"** Ye-eun Won, **Jiwon Kang**, Eunil Park, Minsam Ko, Ki Joon Kim, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Korean)
+- **"A Deep Neural Network Model for Identifying Political Party based on Face Images,"** Jeewoo Yoon, **Jiwon Kang**, Seunghoon Jeong, Minsam Ko, Eunil Park, and Jinyoung Han*, HCI Korea 2019, Jeju, Feb. 2019. (Domestic)
+- **"An Analysis of Socio-Economic Behavior in Me-Media,"** Migyeong Yang, **Jiwon Kang**, Eunil Park, Minsam Ko, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Domestic)
+- **"Effects of Initial Comments on Successful Online Conversation,"** Ye-eun Won, **Jiwon Kang**, Eunil Park, Minsam Ko, Ki Joon Kim, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Domestic)
 
 **[2018]**
 
@@ -49,8 +48,24 @@ My research focus is on understanding how people share news, content or interest
 ---
 
 ## Project
-- [2018.11-2021.10] Predicting Information Diffusion Process with Deep Learning (NRF)
-- [2020.7-2020.11] Developing a Model for Detecting Fake News on COVID-19 (ETRI)
-- [2017.9-2020.8] Design Science: A convergence research on design and Big Data (NRF)
-- [2019.6-2019.11] Learning and Predicting Information Diffusion (ETRI)
-- [2018.5-2018.11] Big Data Research for Artificial Intelligence Applications (ETRI)
+- [2018/11-2021/10] Predicting Information Diffusion Process with Deep Learning (NRF)
+- [2020/07-2020/11] Developing a Model for Detecting Fake News on COVID-19 (ETRI)
+- [2017/09-2020/08] Design Science: A convergence research on design and Big Data (NRF)
+- [2019/06-2019/11] Learning and Predicting Information Diffusion (ETRI)
+- [2018/05-2018/11] Big Data Research for Artificial Intelligence Applications (ETRI)
+
+--
+## Travel
+**[2020]**
+- [11/16-11/20] EMNLP (Virtual)
+- [08/23-08/27] ACM KDD (Virtual)
+- [04/20-04/24] ACM WWW (Taipei, Taiwan - Virtual)
+
+**[2019]**
+- [11/09-11/13] ACM CSCW (Austin, Texas, USA)
+- [10/27-11/02] ICCV (Seoul, Korea)
+- [06/13-06/21] Global Young Generation Science & Technology Leadership Training (Calgary & Banff, Canada)
+- [05/04-05/09] ACM CHI (Glasgow, Scotland, UK)
+
+**[2018]**
+- [11/09-11/13] ACM CSCW (Jersey City, New Jersey, USA)
