@@ -55,6 +55,7 @@ My research interests include Computational Social Science, Machine Learning wit
 - [2018/05-2018/11] Big Data Research for Artificial Intelligence Applications (ETRI)
 
 --
+
 ## Travel
 **[2020]**
 - [11/16-11/20] EMNLP (Virtual)
