@@ -27,6 +27,10 @@ My research interests include Computational Social Science, Machine Learning wit
 ---
 
 ## Publication
+**[2021]**
+
+- **"Behind the scenes of K-pop fandom: unveiling K-pop fandom collaboration network,"** **Jiwon Kang**, Jina Kim, Migyeong Yang, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*. Quality & Quantity, Published online 15 July, 2021. [\[url\]](https://doi.org/10.1007/s11135-021-01189-5)
+
 **[2020]**
 
 - **"Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"** Daeun Lee, Soyoung Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han*, In EMNLP Findings, Nov. 2020.[\[pdf\]](resources/2020.findings-emnlp.200.pdf)
