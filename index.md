@@ -9,7 +9,7 @@ I am a Ph.D. candidate in the department of applied artificial intelligence and 
 My research interests include computational social science and human-center AI. More specifically, I am interested in developing and applying machine learning algorithms to solve real-world problems (e.g., mental health problems and social issues).
 
 - Contact 📩: [jiwonkang@g.skku.edu](mailto:jiwonkang@g.skku.edu)
-- Last Updated: 2022-03-17
+- Last Updated: 2022-05-04
 
 ---
 
@@ -28,9 +28,12 @@ My research interests include computational social science and human-center AI. 
 ---
 
 ## 📚 Publications
+**[2022]**
+- **"“Why Tag Me?”: Detecting Motivations of Comment Tagging in Instagram,"** **Jiwon Kang**, Jeewoo Yoon, Eunil Park, and Jinyoung Han*. Expert Systems with Applications, 117171. [\[url\]](https://doi.org/10.1016/j.eswa.2022.117171)
+
 **[2021]**
 
-- **"Behind the scenes of K-pop fandom: unveiling K-pop fandom collaboration network,"** **Jiwon Kang**, Jina Kim, Migyeong Yang, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*. Quality & Quantity, Published online 15 July, 2021. [\[url\]](https://doi.org/10.1007/s11135-021-01189-5)
+- **"Behind the scenes of K-pop fandom: unveiling K-pop fandom collaboration network,"** **Jiwon Kang**, Jina Kim, Migyeong Yang, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*. Quality & Quantity, 1-22. [\[url\]](https://doi.org/10.1007/s11135-021-01189-5) [\[Github\]](https://github.com/ji1kang/dcinside-scraper)
 
 **[2020]**
 
@@ -49,8 +52,8 @@ My research interests include computational social science and human-center AI. 
 
 **Domestic Publications**
 
-- **"COVID-19 Korean Fake News Detection using Named Entity and User Reproliferation Information,"** Chaewon Park, Daeun Lee, **Jiwon Kang**, Munyoung Lee and Jinyoung Han*, Human and Cognitive Language Technology (HCLT), 2021. (Domestic)
-- **"A Deep Neural Network Model for Identifying Political Party based on Face Images,"** Jeewoo Yoon, **Jiwon Kang**, Seunghoon Jeong, Minsam Ko, Eunil Park, and Jinyoung Han*, HCI Korea 2019, Jeju, Feb. 2019. (Domestic)
+- **"COVID-19 Korean Fake News Detection using Named Entity and User Reproliferation Information,"** Chaewon Park, Daeun Lee, **Jiwon Kang**, Munyoung Lee and Jinyoung Han*, Human and Cognitive Language Technology (HCLT), 2021. (Domestic) 
+- **"A Deep Neural Network Model for Identifying Political Party based on Face Images,"** Jeewoo Yoon, **Jiwon Kang**, Seunghoon Jeong, Minsam Ko, Eunil Park, and Jinyoung Han*, HCI Korea 2019, Jeju, Feb. 2019. (Domestic) 
 - **"An Analysis of Socio-Economic Behavior in Me-Media,"** Migyeong Yang, **Jiwon Kang**, Eunil Park, Minsam Ko, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Domestic)
 - **"Effects of Initial Comments on Successful Online Conversation,"** Ye-eun Won, **Jiwon Kang**, Eunil Park, Minsam Ko, Ki Joon Kim, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Domestic)
 
