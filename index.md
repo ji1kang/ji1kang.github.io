@@ -9,7 +9,7 @@ I am a Ph.D. candidate in the department of applied artificial intelligence and 
 My research interests include computational social science and human-center AI. More specifically, I am interested in developing and applying machine learning algorithms to solve real-world problems (e.g., mental health problems and social issues).
 
 - Contact 📩: [jiwonkang@g.skku.edu](mailto:jiwonkang@g.skku.edu)
-- Last Updated: 2022-09-21
+- Last Updated: 2022-11-03
 
 ---
 
@@ -30,9 +30,9 @@ My research interests include computational social science and human-center AI. 
 ## 📚 Publications
 **[2022]**
 
-- **"Experiencing Stress During COVID-19: A Computational Analysis of Stressors and Emotional Responses to Stress,"** **Jiwon Kang (equal contributions)** & Jieun Kim, Taenyun Kim, Hayeon Song*, Jinyoung Han*, Cyberpsychology, Behavior, and Social Networking, 25(9), 561-570. [\[url\]](http://doi.org/10.1089/cyber.2022.0052)
-
 - **"Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation,"**, Migyeong Yang \& Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee, **Jiwon Kang**, Jinyoung Han*, Hayeon Song*, and Taeeun Kim, ACM CSCW, November, 2022. (accepted)
+
+- **"Experiencing Stress During COVID-19: A Computational Analysis of Stressors and Emotional Responses to Stress,"** **Jiwon Kang (equal contributions)** & Jieun Kim, Taenyun Kim, Hayeon Song*, Jinyoung Han*, Cyberpsychology, Behavior, and Social Networking, 25(9), 561-570. [\[url\]](http://doi.org/10.1089/cyber.2022.0052)
 
 - **"“Why Tag Me?”: Detecting Motivations of Comment Tagging in Instagram,"** **Jiwon Kang**, Jeewoo Yoon, Eunil Park, and Jinyoung Han*. Expert Systems with Applications, 117171. [\[url\]](https://doi.org/10.1016/j.eswa.2022.117171)
 
@@ -74,5 +74,6 @@ My research interests include computational social science and human-center AI. 
 ---
 
 ## 👥 Reviewer
+- [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
 - [NeurIPS 2022 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks)
 - [ACM IMX 2022](https://imx.acm.org/2022/)
