@@ -30,7 +30,7 @@ My research interests include computational social science and human-center AI. 
 ## 📚 Publications
 **[2022]**
 
-- **"Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation,"**, Migyeong Yang \& Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee, **Jiwon Kang**, Jinyoung Han*, Hayeon Song*, and Taeeun Kim, ACM CSCW, November, 2022. (accepted)
+- **"Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation,"**, Migyeong Yang \& Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee, **Jiwon Kang**, Jinyoung Han*, Hayeon Song*, and Taeeun Kim, ACM CSCW, November, 2022. [\[url\]](https://dl.acm.org/doi/10.1145/3555549)
 
 - **"Experiencing Stress During COVID-19: A Computational Analysis of Stressors and Emotional Responses to Stress,"** **Jiwon Kang (equal contributions)** & Jieun Kim, Taenyun Kim, Hayeon Song*, Jinyoung Han*, Cyberpsychology, Behavior, and Social Networking, 25(9), 561-570. [\[url\]](http://doi.org/10.1089/cyber.2022.0052)
 
