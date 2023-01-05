@@ -91,7 +91,7 @@ My research interests include computational social science and human-center AI. 
 
 ---
 
-## 🏫 Education
+## 🏫 Teaching
 - Sungkyunkwan University
   - SWE 2022: Introduction of Programming (Fall 2020) - TA
   - AAI 2012: Computational Thinking, Programming and Application (Spring 2020) - TA
