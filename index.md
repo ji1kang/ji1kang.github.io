@@ -17,7 +17,7 @@ My research interests include computational social science and human-center AI. 
 
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2020 Spring - 2023.03 (Expected)**
   - Ph.D. candidate in Dept. of Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
-  - 🎉 Dessritation: Explainable Deep Learning Models for Understanding Mental Health
+  - 🎉 Dissertation: Explainable Deep Learning Models for Understanding Mental Health
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019.09 - 2020.02**
   - Master's in Dept. of Interaction Science (*Advisors:* Dr. Jinyoung Han)
   - Thesis: (A) data-driven analysis on a K-pop fandom collaboration network [\[url\]](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015519011&dbt=DIKO)
