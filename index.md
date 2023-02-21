@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<img class="profile-picture" src="https://avatars2.githubusercontent.com/u/25212792?s=460&v=4">
+<img class="profile-picture" src="[https://avatars2.githubusercontent.com/u/25212792?s=460&v=4](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3qWZEGkAAAAJ&citpid=8)">
 
-I am a Ph.D. candidate in the department of applied artificial intelligence and a member of [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
+I am currently a postdoctoral fellow at [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
 
-My research interests include computational social science and human-center AI. More specifically, I am interested in developing and applying machine learning algorithms to solve real-world problems (e.g., mental health problems and social issues).
+I specialize in computational social science and natural language processing. My research focuses on creating and utilizing machine learning algorithms to address real-world problems, such as mental health and social issues.
 
 - Contact 📩: [jiwonkang@g.skku.edu](mailto:jiwonkang@g.skku.edu)
-- Last Updated: 2023-01-05
+- Last Updated: 2023-02-21
 
 ---
 
@@ -17,7 +17,7 @@ My research interests include computational social science and human-center AI. 
 
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2020 Spring - 2023.03 (Expected)**
   - Ph.D. candidate in Dept. of Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
-  - 🎉 Dissertation: Explainable Deep Learning Models for Understanding Mental Health
+  - Dissertation: Explainable Deep Learning Models for Understanding Mental Health [\[url\]]( http://www.dcollection.net/handler/skku/000000174212)
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019.09 - 2020.02**
   - Master's in Dept. of Interaction Science (*Advisors:* Dr. Jinyoung Han)
   - Thesis: (A) data-driven analysis on a K-pop fandom collaboration network [\[url\]](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015519011&dbt=DIKO)
@@ -32,12 +32,14 @@ My research interests include computational social science and human-center AI. 
 
 **[2023]**
 
-- 🎉 **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"**, Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song*, Jinyoung Han*, ACM IUI, May, 2023. (accepted)
+- 🎉 **"Dancing on the Inside: A Qualitative Study on Online Dance Learning with Teacher-AI Cooperation,"** Jiwon Kang, Chaewon Kang, Jeewoo Yoon, Houggeun Ji, Taihu Li, Hyunmi Moon, Minsam Ko*, and Jinyoung Han*, Education and Information Technologies, accepted. (SSCI, JCR 2021 IF = 3.666). 
+
+- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song*, Jinyoung Han*, ACM IUI, 2023. (accepted)
 
 
 **[2022]**
 
-- **"Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation,"**, Migyeong Yang & Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee, **Jiwon Kang**, Jinyoung Han*, Hayeon Song*, and Taeeun Kim, ACM CSCW, November, 2022. [\[url\]](https://dl.acm.org/doi/10.1145/3555549)[\[video\]](https://youtu.be/EKqAKPQdK7w)
+- **"Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation,"** Migyeong Yang & Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee, **Jiwon Kang**, Jinyoung Han*, Hayeon Song*, and Taeeun Kim, ACM CSCW, November, 2022. [\[url\]](https://dl.acm.org/doi/10.1145/3555549)[\[video\]](https://youtu.be/EKqAKPQdK7w)
 
 - **"Experiencing Stress During COVID-19: A Computational Analysis of Stressors and Emotional Responses to Stress,"** **Jiwon Kang (equal contributions)** & Jieun Kim, Taenyun Kim, Hayeon Song*, Jinyoung Han*, Cyberpsychology, Behavior, and Social Networking, 25(9), 561-570. [\[url\]](http://doi.org/10.1089/cyber.2022.0052)
 
