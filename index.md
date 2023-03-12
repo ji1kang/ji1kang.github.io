@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="[profile](https://avatars2.githubusercontent.com/u/25212792?s=460&v=4)">
+<img class="profile-picture" alt="profile-picture" src="https://avatars2.githubusercontent.com/u/25212792?s=460&v=4">
 
 I am currently a postdoctoral fellow at [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
 
