@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<img class="profile-picture" src="[https://avatars2.githubusercontent.com/u/25212792?s=460&v=4](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3qWZEGkAAAAJ&citpid=8)">
+<img class="profile-picture" src="[profile](https://avatars2.githubusercontent.com/u/25212792?s=460&v=4)">
 
 I am currently a postdoctoral fellow at [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
 
 I specialize in computational social science and natural language processing. My research focuses on creating and utilizing machine learning algorithms to address real-world problems, such as mental health and social issues.
 
 - Contact 📩: [jiwonkang@g.skku.edu](mailto:jiwonkang@g.skku.edu)
-- Last Updated: 2023-02-21
+- Last Updated: 2023-03-12
 
 ---
 
 ## 🎓 Education
 
-- **Sungkyunkwan University, Seoul, Rep. of Korea: 2020 Spring - 2023.03 (Expected)**
+- **Sungkyunkwan University, Seoul, Rep. of Korea: 2020.03 - 2023.02**
   - Ph.D. candidate in Dept. of Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
   - Dissertation: Explainable Deep Learning Models for Understanding Mental Health [\[url\]]( http://www.dcollection.net/handler/skku/000000174212)
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019.09 - 2020.02**
@@ -32,18 +32,18 @@ I specialize in computational social science and natural language processing. My
 
 **[2023]**
 
-- 🎉 **"Dancing on the Inside: A Qualitative Study on Online Dance Learning with Teacher-AI Cooperation,"** Jiwon Kang, Chaewon Kang, Jeewoo Yoon, Houggeun Ji, Taihu Li, Hyunmi Moon, Minsam Ko*, and Jinyoung Han*, Education and Information Technologies, accepted. (SSCI, JCR 2021 IF = 3.666). 
+- **"Dancing on the Inside: A Qualitative Study on Online Dance Learning with Teacher-AI Cooperation,"** **Jiwon Kang**, Chaewon Kang, Jeewoo Yoon, Houggeun Ji, Taihu Li, Hyunmi Moon, Minsam Ko*, and Jinyoung Han*, Education and Information Technologies, accepted. (SSCI, JCR 2021 IF = 3.666). [\[url\]](https://link.springer.com/article/10.1007/s10639-023-11649-0)
 
-- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song*, Jinyoung Han*, ACM IUI, 2023. (accepted)
+- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song*, Jinyoung Han, ACM IUI, 2023. (acceptance rate = 66/274 = 24.1%)
 
 
 **[2022]**
 
-- **"Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation,"** Migyeong Yang & Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee, **Jiwon Kang**, Jinyoung Han*, Hayeon Song*, and Taeeun Kim, ACM CSCW, November, 2022. [\[url\]](https://dl.acm.org/doi/10.1145/3555549)[\[video\]](https://youtu.be/EKqAKPQdK7w)
+- **"Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation,"** Migyeong Yang & Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee, **Jiwon Kang**, Jinyoung Han, Hayeon Song, and Taeeun Kim, ACM CSCW, November, 2022. [\[url\]](https://dl.acm.org/doi/10.1145/3555549)[\[video\]](https://youtu.be/EKqAKPQdK7w)
 
-- **"Experiencing Stress During COVID-19: A Computational Analysis of Stressors and Emotional Responses to Stress,"** **Jiwon Kang (equal contributions)** & Jieun Kim, Taenyun Kim, Hayeon Song*, Jinyoung Han*, Cyberpsychology, Behavior, and Social Networking, 25(9), 561-570. [\[url\]](http://doi.org/10.1089/cyber.2022.0052)
+- **"Experiencing Stress During COVID-19: A Computational Analysis of Stressors and Emotional Responses to Stress,"** **Jiwon Kang (equal contributions)** & Jieun Kim, Taenyun Kim, Hayeon Song, Jinyoung Han, Cyberpsychology, Behavior, and Social Networking, 25(9), 561-570. (SSCI, JCR 2021 IF = 6.135) [\[url\]](http://doi.org/10.1089/cyber.2022.0052)
 
-- **"“Why Tag Me?”: Detecting Motivations of Comment Tagging in Instagram,"** **Jiwon Kang**, Jeewoo Yoon, Eunil Park, and Jinyoung Han*. Expert Systems with Applications, 117171. [\[url\]](https://doi.org/10.1016/j.eswa.2022.117171)[\[github\]](https://github.com/ji1kang/user-tagging)
+- **"“Why Tag Me?”: Detecting Motivations of Comment Tagging in Instagram,"** **Jiwon Kang**, Jeewoo Yoon, Eunil Park, and Jinyoung Han*. Expert Systems with Applications, 117171. (SCIE, JCR 2021 IF=8.665) [\[url\]](https://doi.org/10.1016/j.eswa.2022.117171)[\[github\]](https://github.com/ji1kang/user-tagging)
 
 - **"Behind the scenes of K-pop fandom: unveiling K-pop fandom collaboration network,"** **Jiwon Kang**, Jina Kim, Migyeong Yang, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*. Quality & Quantity, 56 (3), 1-22. [\[url\]](https://doi.org/10.1007/s11135-021-01189-5) [\[github\]](https://github.com/ji1kang/dcinside-scraper)
 
@@ -53,24 +53,25 @@ I specialize in computational social science and natural language processing. My
 
 - **"Why do Instagram Users Tag Friends in Comments?,"** **Jiwon Kang**, Jeewoo Yoon, and Jinyoung Han*, In Companion Proceedings of the Web Conference 2020 (WWW), Taipei, Taiwan, Apr. 2020. (3 pg. extended abstract) [\[pdf\]](resources/www20companion-46.pdf)
 
+- **"Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews,"** Eunil Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han, Current Issues in Tourism, 23(5), 605-611. (SSCI, JCR 2019 IF = 7.430)
+
 **[2019]**
 
-- **"Who Drives Successful Online Conversations? Unveiling the Role of First User Response,"** Ye-eun Won & **Jiwon Kang (equal contributions)**, Daejin Choi, Eunil Park, and Jinyoung Han*, Kybernetes, 49(3), 876-884. [\[url\]](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/html)
+- **"Who Drives Successful Online Conversations? Unveiling the Role of First User Response,"** Ye-eun Won & **Jiwon Kang (equal contributions)**, Daejin Choi, Eunil Park, and Jinyoung Han, Kybernetes, 49(3), 876-884. (SCIE, JCR 2019 IF = 2.235) [\[url\]](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/html)
 
 - **"Alliance for My Idol: Analyzing the K-pop Fandom Collaboration Network,"** **Jiwon Kang**, Minsung Lee, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*, ACM CHI Conference on Human Factors in Computing Systems (CHI), Glasgow, Scotland UK, May 2019. (6pg. extended abstract) [\[pdf\]](resources/chi19lbw.pdf) [\[poster\]](resources/chi19lbwPoster.pdf)
 
 **[2018]**
 
-- **"Understanding Influential Comments in Online Conversations,"** **Jiwon Kang**, Daejin Choi, Eunil Park, and Jinyoung Han*, ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), Jersey City, USA, November 2018. (4pg. extended abstract). [\[pdf\]](resources/cscw18ea.pdf) [\[poster\]](resources/cscw18eaPoster.pdf)
+- **"Understanding Influential Comments in Online Conversations,"** **Jiwon Kang**, Daejin Choi, Eunil Park, and Jinyoung Han, ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), Jersey City, USA, November 2018. (4pg. extended abstract). [\[pdf\]](resources/cscw18ea.pdf) [\[poster\]](resources/cscw18eaPoster.pdf)
 
-- **"Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews,"** Eunil Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han*, Current Issues in Tourism, 23(5), 605-611.
 
 **Domestic Publications**
 
-- **"COVID-19 Korean Fake News Detection using Named Entity and User Reproliferation Information,"** Chaewon Park, Daeun Lee, **Jiwon Kang**, Munyoung Lee and Jinyoung Han*, Human and Cognitive Language Technology (HCLT), 2021. (Domestic) 
-- **"A Deep Neural Network Model for Identifying Political Party based on Face Images,"** Jeewoo Yoon, **Jiwon Kang**, Seunghoon Jeong, Minsam Ko, Eunil Park, and Jinyoung Han*, HCI Korea 2019, Jeju, Feb. 2019. (Domestic) 
-- **"An Analysis of Socio-Economic Behavior in Me-Media,"** Migyeong Yang, **Jiwon Kang**, Eunil Park, Minsam Ko, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Domestic)
-- **"Effects of Initial Comments on Successful Online Conversation,"** Ye-eun Won, **Jiwon Kang**, Eunil Park, Minsam Ko, Ki Joon Kim, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019. (Domestic)
+- **"COVID-19 Korean Fake News Detection using Named Entity and User Reproliferation Information,"** Chaewon Park, Daeun Lee, **Jiwon Kang**, Munyoung Lee and Jinyoung Han*, Human and Cognitive Language Technology (HCLT), 2021. 
+- **"A Deep Neural Network Model for Identifying Political Party based on Face Images,"** Jeewoo Yoon, **Jiwon Kang**, Seunghoon Jeong, Minsam Ko, Eunil Park, and Jinyoung Han*, HCI Korea 2019, Jeju, Feb. 2019.
+- **"An Analysis of Socio-Economic Behavior in Me-Media,"** Migyeong Yang, **Jiwon Kang**, Eunil Park, Minsam Ko, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019.
+- **"Effects of Initial Comments on Successful Online Conversation,"** Ye-eun Won, **Jiwon Kang**, Eunil Park, Minsam Ko, Ki Joon Kim, and Jinyoung Han, HCI Korea 2019, Jeju, Feb. 2019.
 
 ---
 
