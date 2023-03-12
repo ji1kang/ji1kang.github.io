@@ -1,7 +1,7 @@
 title: Jiwon Kang
 url: "https://ji1kang.github.io"
 baseurl: ""
-description: Jiwon Kang Online CV
+description: Jiwon Kang CV
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -21,3 +21,5 @@ nav:
    link: "https://scholar.google.co.kr/citations?user=3qWZEGkAAAAJ&hl=en"
  - name: "Linkedin"
    link: "https://www.linkedin.com/in/jiwon-kang-7598a3131/"
+- name: "Tech blog (in Korean)"
+    link: "https://velog.io/@ji1kang"
