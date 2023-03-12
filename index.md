@@ -16,7 +16,7 @@ I specialize in computational social science and natural language processing. My
 ## 🎓 Education
 
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2020.03 - 2023.02**
-  - Ph.D. candidate in Dept. of Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
+  - Ph.D. in Dept. of Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
   - Dissertation: Explainable Deep Learning Models for Understanding Mental Health [\[url\]]( http://www.dcollection.net/handler/skku/000000174212)
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019.09 - 2020.02**
   - Master's in Dept. of Interaction Science (*Advisors:* Dr. Jinyoung Han)
