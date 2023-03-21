@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" alt="profile-picture" src="https://avatars2.githubusercontent.com/u/25212792?s=460&v=4">
 
-I am currently a postdoctoral fellow at [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
+I am currently a post-doc researcher at [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
 
 I specialize in computational social science and natural language processing. My research focuses on creating and utilizing machine learning algorithms to address real-world problems, such as mental health and social issues.
 
@@ -32,20 +32,20 @@ I specialize in computational social science and natural language processing. My
 
 **[2023]**
 
-- **"Dancing on the Inside: A Qualitative Study on Online Dance Learning with Teacher-AI Cooperation,"** **Jiwon Kang**, Chaewon Kang, Jeewoo Yoon, Houggeun Ji, Taihu Li, Hyunmi Moon, Minsam Ko*, and Jinyoung Han*, Education and Information Technologies, accepted. (SSCI, JCR 2021 IF = 3.666). [\[url\]](https://link.springer.com/article/10.1007/s10639-023-11649-0)
+- **"Dancing on the Inside: A Qualitative Study on Online Dance Learning with Teacher-AI Cooperation,"** **Jiwon Kang**, Chaewon Kang, Jeewoo Yoon, Houggeun Ji, Taihu Li, Hyunmi Moon, Minsam Ko, and Jinyoung Han, Education and Information Technologies (SSCI). [\[url\]](https://link.springer.com/article/10.1007/s10639-023-11649-0)
 
-- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song*, Jinyoung Han, ACM IUI, 2023. (acceptance rate = 66/274 = 24.1%)
+- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song, Jinyoung Han, ACM IUI, 2023.
 
 
 **[2022]**
 
 - **"Magic Brush: An AI-based Service for Dementia Prevention focused on Intrinsic Motivation,"** Migyeong Yang & Kyungha Lee, Eunji Kim, Yeosol Song, Sewang Lee, **Jiwon Kang**, Jinyoung Han, Hayeon Song, and Taeeun Kim, ACM CSCW, November, 2022. [\[url\]](https://dl.acm.org/doi/10.1145/3555549)[\[video\]](https://youtu.be/EKqAKPQdK7w)
 
-- **"Experiencing Stress During COVID-19: A Computational Analysis of Stressors and Emotional Responses to Stress,"** **Jiwon Kang (equal contributions)** & Jieun Kim, Taenyun Kim, Hayeon Song, Jinyoung Han, Cyberpsychology, Behavior, and Social Networking, 25(9), 561-570. (SSCI, JCR 2021 IF = 6.135) [\[url\]](http://doi.org/10.1089/cyber.2022.0052)
+- **"Experiencing Stress During COVID-19: A Computational Analysis of Stressors and Emotional Responses to Stress,"** **Jiwon Kang (equal contributions)** & Jieun Kim, Taenyun Kim, Hayeon Song, Jinyoung Han, Cyberpsychology Behavior and Social Networking (SSCI), 25(9), 561-570. [\[url\]](http://doi.org/10.1089/cyber.2022.0052)
 
-- **"“Why Tag Me?”: Detecting Motivations of Comment Tagging in Instagram,"** **Jiwon Kang**, Jeewoo Yoon, Eunil Park, and Jinyoung Han*. Expert Systems with Applications, 117171. (SCIE, JCR 2021 IF=8.665) [\[url\]](https://doi.org/10.1016/j.eswa.2022.117171)[\[github\]](https://github.com/ji1kang/user-tagging)
+- **"“Why Tag Me?”: Detecting Motivations of Comment Tagging in Instagram,"** **Jiwon Kang**, Jeewoo Yoon, Eunil Park, and Jinyoung Han*. Expert Systems with Applications (SCIE), 117171. [\[url\]](https://doi.org/10.1016/j.eswa.2022.117171)[\[github\]](https://github.com/ji1kang/user-tagging)
 
-- **"Behind the scenes of K-pop fandom: unveiling K-pop fandom collaboration network,"** **Jiwon Kang**, Jina Kim, Migyeong Yang, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*. Quality & Quantity, 56 (3), 1-22. [\[url\]](https://doi.org/10.1007/s11135-021-01189-5) [\[github\]](https://github.com/ji1kang/dcinside-scraper)
+- **"Behind the scenes of K-pop fandom: unveiling K-pop fandom collaboration network,"** **Jiwon Kang**, Jina Kim, Migyeong Yang, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han. Quality & Quantity, 56 (3), 1-22. [\[url\]](https://doi.org/10.1007/s11135-021-01189-5) [\[github\]](https://github.com/ji1kang/dcinside-scraper)
 
 **[2020]**
 
@@ -53,11 +53,11 @@ I specialize in computational social science and natural language processing. My
 
 - **"Why do Instagram Users Tag Friends in Comments?,"** **Jiwon Kang**, Jeewoo Yoon, and Jinyoung Han*, In Companion Proceedings of the Web Conference 2020 (WWW), Taipei, Taiwan, Apr. 2020. (3 pg. extended abstract) [\[pdf\]](resources/www20companion-46.pdf)
 
-- **"Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews,"** Eunil Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han, Current Issues in Tourism, 23(5), 605-611. (SSCI, JCR 2019 IF = 7.430)
+- **"Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews,"** Eunil Park, **Jiwon Kang**, Daejin Choi, and Jinyoung Han, Current Issues in Tourism (SSCI), 23(5), 605-611.
 
 **[2019]**
 
-- **"Who Drives Successful Online Conversations? Unveiling the Role of First User Response,"** Ye-eun Won & **Jiwon Kang (equal contributions)**, Daejin Choi, Eunil Park, and Jinyoung Han, Kybernetes, 49(3), 876-884. (SCIE, JCR 2019 IF = 2.235) [\[url\]](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/html)
+- **"Who Drives Successful Online Conversations? Unveiling the Role of First User Response,"** Ye-eun Won & **Jiwon Kang (equal contributions)**, Daejin Choi, Eunil Park, and Jinyoung Han, Kybernetes (SCIE), 49(3), 876-884. [\[url\]](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/html)
 
 - **"Alliance for My Idol: Analyzing the K-pop Fandom Collaboration Network,"** **Jiwon Kang**, Minsung Lee, Eunil Park, Minsam Ko, Munyoung Lee, and Jinyoung Han*, ACM CHI Conference on Human Factors in Computing Systems (CHI), Glasgow, Scotland UK, May 2019. (6pg. extended abstract) [\[pdf\]](resources/chi19lbw.pdf) [\[poster\]](resources/chi19lbwPoster.pdf)
 
@@ -77,7 +77,7 @@ I specialize in computational social science and natural language processing. My
 
 ## ✅ Research Projects
 - [2020/10-2023/08] Modeling and Analyzing a Contact Social Graph for Predicting and Managing Outbreak Disease (NRF).
-- [2021/09-2022/08] **A Student-AI Interaction Online Dance Learning System**, 인문사회학술연구교수(B유형), the National Research Foundation of Korea (NRF).
+- [2021/09-2022/08] **A Student-AI Interaction Online Dance Learning System**, 인문사회학술연구교수(B유형), National Research Foundation of Korea (NRF).
   -  The proposal on developing a human-AI cooperated dance learning system is funded by NRF. This is my first research project as a principal investigator. 😊
 - [2018/11-2021/10] Predicting Information Diffusion Process with Deep Learning, the National Research Foundation of Korea (NRF).
 - [2020/07-2020/11] Developing a Model for Detecting Fake News on COVID-19, Electronics and Telecommunications Research Institute (ETRI).
