@@ -92,12 +92,12 @@ layout: default
 ---
 
 ## ✅ Research Projects
-- [2020/10-2023/08] Modeling and Analyzing a Contact Social Graph for Predicting and Managing Outbreak Disease (NRF).
-- [2021/09-2022/08] **A Student-AI Interaction Online Dance Learning System**, 인문사회학술연구교수(B유형), National Research Foundation of Korea (NRF).
-  -  The proposal on developing a human-AI cooperated dance learning system is funded by NRF. This is my first research project as a principal investigator. 😊
-- [2018/11-2021/10] Predicting Information Diffusion Process with Deep Learning, the National Research Foundation of Korea (NRF).
+- [2020/10-2023/08] Modeling and Analyzing a Contact Social Graph for Predicting and Managing Outbreak Disease, National Research Foundation of Korea (NRF).
+- [2021/09-2022/08] **A Student-AI Interaction Online Dance Learning System**, National Research Foundation of Korea (NRF).
+  -  This is my first research project as a principal investigator 😊
+- [2018/11-2021/10] Predicting Information Diffusion Process with Deep Learning, National Research Foundation of Korea (NRF).
 - [2020/07-2020/11] Developing a Model for Detecting Fake News on COVID-19, Electronics and Telecommunications Research Institute (ETRI).
-- [2017/09-2020/08] Design Science: A convergence research on design and Big Data, the National Research Foundation of Korea (NRF).
+- [2017/09-2020/08] Design Science: A convergence research on design and Big Data, National Research Foundation of Korea (NRF).
 - [2019/06-2019/11] Learning and Predicting Information Diffusion, Electronics and Telecommunications Research Institute (ETRI).
 - [2018/05-2018/11] Big Data Research for Artificial Intelligence Applications, Electronics and Telecommunications Research Institute (ETRI).
 
