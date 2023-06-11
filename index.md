@@ -4,12 +4,14 @@ layout: default
 
 <img class="profile-picture" alt="profile-picture" src="https://avatars2.githubusercontent.com/u/25212792?s=460&v=4">
 
-I am currently a post-doc researcher at [Data Science & Artificial Intelligence Lab](dsail.skku.edu) at Sungkyunkwan University, Seoul, Republic of Korea.
+🔬💡 I am a post-doc researcher at the [Data Science & Artificial Intelligence Lab](dsail.skku.edu) in Seoul, Republic of Korea.
 
-I specialize in computational social science and natural language processing. My research focuses on creating and utilizing machine learning algorithms to address real-world problems, such as mental health and social issues.
+🎯 My expertise spans across natural language processing, computational social science, and human-AI interaction. I specialize in leveraging machine learning algorithms to tackle real-world challenges, including mental health and social issues.
+
+✨ Additionally, I am passionate about applying AI systems to optimize human work processes, resulting in enhanced productivity and creativity.
 
 - Contact 📩: [jiwonkang@g.skku.edu](mailto:jiwonkang@g.skku.edu)
-- Last Updated: 2023-03-12
+- Last Updated: 2023-06-11
 
 ---
 
@@ -34,7 +36,7 @@ I specialize in computational social science and natural language processing. My
 
 - **"Dancing on the Inside: A Qualitative Study on Online Dance Learning with Teacher-AI Cooperation,"** **Jiwon Kang**, Chaewon Kang, Jeewoo Yoon, Houggeun Ji, Taihu Li, Hyunmi Moon, Minsam Ko, and Jinyoung Han, Education and Information Technologies (SSCI). [\[url\]](https://link.springer.com/article/10.1007/s10639-023-11649-0)
 
-- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song, Jinyoung Han, ACM IUI, 2023.
+- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song, Jinyoung Han, ACM IUI, 2023.  [\[url\]](https://dl.acm.org/doi/abs/10.1145/3581641.3584087)
 
 
 **[2022]**
@@ -75,6 +77,20 @@ I specialize in computational social science and natural language processing. My
 
 ---
 
+## 🎖 Awards
+
+- [1st Prize, WRTN Prompthon (2023), WRTN Technologies](https://onoffmix.com/event/276106?utm_id=prompthon)
+- [2nd Prize, Student Researcher Awards (Fall 2022), Sungkyunkwan University](https://xai.skku.edu/skkuaai/notice.do?mode=view&articleNo=144520&article.offset=0&articleLimit=10)
+
+---
+
+## 👥 Reviewer
+- [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+- [NeurIPS 2022 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks)
+- [ACM IMX 2022](https://imx.acm.org/2022/)
+
+---
+
 ## ✅ Research Projects
 - [2020/10-2023/08] Modeling and Analyzing a Contact Social Graph for Predicting and Managing Outbreak Disease (NRF).
 - [2021/09-2022/08] **A Student-AI Interaction Online Dance Learning System**, 인문사회학술연구교수(B유형), National Research Foundation of Korea (NRF).
@@ -84,13 +100,6 @@ I specialize in computational social science and natural language processing. My
 - [2017/09-2020/08] Design Science: A convergence research on design and Big Data, the National Research Foundation of Korea (NRF).
 - [2019/06-2019/11] Learning and Predicting Information Diffusion, Electronics and Telecommunications Research Institute (ETRI).
 - [2018/05-2018/11] Big Data Research for Artificial Intelligence Applications, Electronics and Telecommunications Research Institute (ETRI).
-
----
-
-## 👥 Reviewer
-- [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
-- [NeurIPS 2022 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks)
-- [ACM IMX 2022](https://imx.acm.org/2022/)
 
 ---
 
