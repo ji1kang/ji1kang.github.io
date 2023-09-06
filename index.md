@@ -18,10 +18,10 @@ layout: default
 ## 🎓 Education
 
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2020.03 - 2023.02**
-  - Ph.D. in Dept. of Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
+  - Ph.D. in Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
   - Dissertation: Explainable Deep Learning Models for Understanding Mental Health [\[url\]]( http://www.dcollection.net/handler/skku/000000174212)
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019.09 - 2020.02**
-  - Master's in Dept. of Interaction Science (*Advisors:* Dr. Jinyoung Han)
+  - Master's in Interaction Science (*Advisors:* Dr. Jinyoung Han)
   - Thesis: (A) data-driven analysis on a K-pop fandom collaboration network [\[url\]](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015519011&dbt=DIKO)
 - **Hanyang University, Seoul, Rep. of Korea: 2018.03 - 2019.07**
   - Master's candidate in Dept. of HCI  (*Advisors:* Dr. Jinyoung Han)
