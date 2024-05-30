@@ -4,14 +4,14 @@ layout: default
 
 <img class="profile-picture" alt="profile-picture" src="https://avatars2.githubusercontent.com/u/25212792?s=460&v=4">
 
-🔬💡 I am a post-doc researcher at the [Data Science & Artificial Intelligence Lab](dsail.skku.edu) in Seoul, Republic of Korea.
+🔬💡 I am a researcher at [Hana Institute of Technology](https://hit.hanati.co.kr/) in Seoul, Republic of Korea.
 
-🎯 My expertise spans across natural language processing, computational social science, and human-AI interaction. I specialize in leveraging machine learning algorithms to tackle real-world challenges, including mental health and social issues.
+🎯 My expertise spans across natural language processing, computational social science, and human-AI interaction. Currently, I focus on developing large language models (LLMs) and exploring their potential in financial applications to support employees and enhance customer experiences.
 
-✨ Additionally, I am passionate about applying AI systems to optimize human work processes, resulting in enhanced productivity and creativity.
+✨ I am passionate about applying AI systems to optimize work processes, resulting in increased productivity and innovative solutions in the finance sector.
 
 - Contact 📩: [jiwonkang@g.skku.edu](mailto:jiwonkang@g.skku.edu)
-- Last Updated: 2023-06-11
+- Last Updated: 2024-05-30
 
 ---
 
@@ -19,7 +19,7 @@ layout: default
 
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2020.03 - 2023.02**
   - Ph.D. in Applied Artificial Intelligence (*Advisors:* Dr. Jinyoung Han)
-  - Dissertation: Explainable Deep Learning Models for Understanding Mental Health [\[url\]]( http://www.dcollection.net/handler/skku/000000174212)
+  - Dissertation: Explainable Deep Learning Models for Understanding Mental Health [\[url\]](http://www.dcollection.net/handler/skku/000000174212)
 - **Sungkyunkwan University, Seoul, Rep. of Korea: 2019.09 - 2020.02**
   - Master's in Interaction Science (*Advisors:* Dr. Jinyoung Han)
   - Thesis: (A) data-driven analysis on a K-pop fandom collaboration network [\[url\]](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015519011&dbt=DIKO)
@@ -32,11 +32,16 @@ layout: default
 
 ## 📚 Publications
 
+**[2024]**
+- **"SceneDAPR: A Scene-Level Free-Hand Drawing Dataset for Web-based Psychological Drawing Assessment,"** **Jiwon Kang**, Jiwon Kim, Migyeong Yang, Chaehee Park, Taeeun Kim, Hayeon Song, Jinyoung Han, Proceedings of the ACM on Web Conference 2024. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3589334.3648150) [\[github\]](https://github.com/DSAIL-SKKU/SceneDAPR)
+
+- **Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19,** Migyeong Yang, Chaewon Park, **Jiwon Kang**, Daeun Lee, Daejin Choi, Jinyoung Han, Companion Proceedings of the ACM on Web Conference 2024. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651506) [\[github\]](https://github.com/DSAIL-SKKU/Fighting_Against_FakeNews_on_Emerging_Crisis-WWW24)
+
 **[2023]**
 
-- **"Dancing on the Inside: A Qualitative Study on Online Dance Learning with Teacher-AI Cooperation,"** **Jiwon Kang**, Chaewon Kang, Jeewoo Yoon, Houggeun Ji, Taihu Li, Hyunmi Moon, Minsam Ko, and Jinyoung Han, Education and Information Technologies (SSCI). [\[url\]](https://link.springer.com/article/10.1007/s10639-023-11649-0)
+- **"Dancing on the Inside: A Qualitative Study on Online Dance Learning with Teacher-AI Cooperation,"** **Jiwon Kang**, Chaewon Kang, Jeewoo Yoon, Houggeun Ji, Taihu Li, Hyunmi Moon, Minsam Ko, and Jinyoung Han, Education and Information Technologies (SSCI), 28(9), 12111-12141. [\[url\]](https://link.springer.com/article/10.1007/s10639-023-11649-0)
 
-- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song, Jinyoung Han, ACM IUI, 2023.  [\[url\]](https://dl.acm.org/doi/abs/10.1145/3581641.3584087)
+- **"AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim & **Jiwon Kang (equal contributions)**, Taeeun Kim, and Hayeon Song, Jinyoung Han, Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI), 2023.  [\[url\]](https://dl.acm.org/doi/abs/10.1145/3581641.3584087)
 
 
 **[2022]**
