@@ -4,14 +4,24 @@ layout: default
 
 <img class="profile-picture" alt="profile-picture" src="https://avatars2.githubusercontent.com/u/25212792?s=460&v=4">
 
-🔬💡 I am a researcher at [Hana Institute of Technology](https://hit.hanati.co.kr/) in Seoul, Republic of Korea.
+Senior Researcher @ Hana Institute of Technology | NLP · LLM · FinTech AI
 
-🎯 My expertise spans across natural language processing, computational social science, and human-AI interaction. Currently, I focus on developing large language models (LLMs) and exploring their potential in financial applications to support employees and enhance customer experiences.
+I build large language models that work in the real world — currently focused on financial AI applications that streamline decision-making and enhance customer experiences.
 
-✨ I am passionate about applying AI systems to optimize work processes, resulting in increased productivity and innovative solutions in the finance sector.
+My background spans natural language processing, computational social science, and human-AI interaction, with work published at ACM WWW, IUI, and CSCW.
+
+Lately, I've been thinking a lot about how LLMs can move beyond demos and into production systems that hold up in the real world.
 
 - Contact 📩: [jiwonkang@g.skku.edu](mailto:jiwonkang@g.skku.edu)
-- Last Updated: 2024-05-30
+- Last Updated: 2026-06-10
+
+---
+
+## 💡 Work Experencies
+
+- **Hana Institute of Technology, Seoul, Rep. of Korea: 2023.09 – Current **
+  - Senior Researcher, NLP Cell
+  - Developed and deployed financial domain-specialized LLMs, contributing to production-level NLP services
 
 ---
 
@@ -31,6 +41,11 @@ layout: default
 ---
 
 ## 📚 Publications
+
+**[2025]**
+- **"PracticeDAPR: An AI-based Education-Supported System for Art Therapy,"** Migyeong Yang, Chaehee Park, **Jiwon Kang**, Jiwon Kim, Taeeun Kim, Hayeon Song, Jinyoung Han, Proceedings of the ACM on Human-Computer Interaction, 2025. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3711112)
+ 
+- **"Developing an AI-based Explainable Expert Support System for Art Therapy,"** Jiwon Kim, **Jiwon Kang**, Migyeong Yang, Chaehee Park, Taeeun Kim, Hayeon Song, Jinyoung Han, ACM Transactions on Interactive Intelligent Systems, 2025. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3689649)
 
 **[2024]**
 - **"SceneDAPR: A Scene-Level Free-Hand Drawing Dataset for Web-based Psychological Drawing Assessment,"** **Jiwon Kang**, Jiwon Kim, Migyeong Yang, Chaehee Park, Taeeun Kim, Hayeon Song, Jinyoung Han, Proceedings of the ACM on Web Conference 2024. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3589334.3648150) [\[github\]](https://github.com/DSAIL-SKKU/SceneDAPR)
@@ -90,9 +105,9 @@ layout: default
 ---
 
 ## 👥 Reviewer
-- [NeurIPS 2023 Datasets and Benchmarks Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks)
+- NeurIPS Main Track (2024–2026)
+- NeurIPS [Datasets and Benchmarks Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks) (2022–2023)
 - [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
-- [NeurIPS 2022 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks)
 - [ACM IMX 2022](https://imx.acm.org/2022/)
 
 ---
