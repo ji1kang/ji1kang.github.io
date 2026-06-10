@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" alt="profile-picture" src="https://avatars2.githubusercontent.com/u/25212792?s=460&v=4">
 
-Senior Researcher @ Hana Institute of Technology | NLP · LLM · FinTech AI
+Senior Researcher @ Hana Institute of Technology / NLP · LLM · FinTech AI
 
 I build large language models that work in the real world — currently focused on financial AI applications that streamline decision-making and enhance customer experiences.
 
@@ -19,7 +19,7 @@ Lately, I've been thinking a lot about how LLMs can move beyond demos and into p
 
 ## 💡 Work Experencies
 
-- **Hana Institute of Technology, Seoul, Rep. of Korea: 2023.09 – Current **
+- **Hana Institute of Technology, Seoul, Rep. of Korea: 2023.09 – Current**
   - Senior Researcher, NLP Cell
   - Developed and deployed financial domain-specialized LLMs, contributing to production-level NLP services
 
